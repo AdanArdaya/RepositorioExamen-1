@@ -10,7 +10,7 @@ namespace EvalAdanArdaya.Models
     {
         public Datacontext():base("DefaultConnection")
         {
-                
+                   
         }
     }
 }
